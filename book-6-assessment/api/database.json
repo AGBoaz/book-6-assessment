@@ -1,0 +1,39 @@
+{
+    "authors":[
+        {
+            "id": 1,
+            "name": "Nina"
+        },
+        {
+            "id": 2,
+            "name": "Alphonse"
+        },
+        {
+            "id": 3,
+            "name": "Edward"
+        },
+        {
+            "id": 4,
+            "name": "Mustang"
+        }
+    ],
+    "recipiants":[
+        {
+            "id": 1,
+            "name": "Nina"
+        },
+        {
+            "id": 2,
+            "name": "Alphonse"
+        },
+        {
+            "id": 3,
+            "name": "Edward"
+        },
+        {
+            "id": 4,
+            "name": "Mustang"
+        }
+    ],
+    "letters":[]
+}
